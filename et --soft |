@@ -1,0 +1,72 @@
+[33mcommit fb5039d63e9ec093607df1d7589b4556ad1fece0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 23:14:44 2026 -0300
+
+    J: happy accident
+
+[33mcommit c0f70db24e98d0a5cc792d7bca285e31e5deec1b[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 23:12:09 2026 -0300
+
+    I: j
+
+[33mcommit 98c7f6bcfe06db6596f9f1ca3995e0e2c2629eae[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 23:11:47 2026 -0300
+
+    H: j
+
+[33mcommit f0b5fdec2784b9b1580abdae5c0861a33ea0baed[m[33m ([m[1;32mmain[m[33m)[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 21:23:22 2026 -0300
+
+    G: g
+
+[33mcommit cf5144e6e0d21212eeee46ad731e4f146d30a93e[m
+Merge: b5126cb 6cfd585
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 21:20:16 2026 -0300
+
+    F: Merge branch 'add_classics'
+
+[33mcommit b5126cbf99a5c1d29a6bade10304b3d2b08545d3[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 21:19:10 2026 -0300
+
+    E: e
+
+[33mcommit 6cfd585fe79c226bd78d564df1c16caeb46037cb[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 21:15:03 2026 -0300
+
+    D: classics
+
+[33mcommit f9f970a82e03f18db7f447cd570b7647a09990ab[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 20:53:56 2026 -0300
+
+    C: quotes
+
+[33mcommit 8f3ac74b78cf3b61507287cfbc90b58d44a55dae[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 20:53:18 2026 -0300
+
+    C: quotes
+
+[33mcommit 37088fe1e73792814e02a80524c97863ff5ca092[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 20:51:20 2026 -0300
+
+    B: add titles
+
+[33mcommit 994b5e512f3083291d6752e451b5542e3eb469d1[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 20:39:00 2026 -0300
+
+    A: add contents.md
+
+[33mcommit c2c3f9d70ac220db17f01bca460df9e0cffb08e5[m
+Author: ElStickman <alejandro-donoso@hotmail.com>
+Date:   Tue Jan 20 20:38:07 2026 -0300
+
+    your message here
